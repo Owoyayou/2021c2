@@ -2,6 +2,7 @@ void setup(){///要互動，要有2個函式:setup()設定
   size(300,300);
   textSize(40);
 }
+int choice = -1;
 void draw(){
   background(#DFEA45);
   fill(#456FEA);///字的填充顏色
